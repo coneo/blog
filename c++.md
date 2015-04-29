@@ -5,3 +5,5 @@
 [JSF-AV-rules](http://www.stroustrup.com/JSF-AV-rules.pdf)
 
 [C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html)
+
+[SGI STL](http://www.sgi.com/tech/stl/)
